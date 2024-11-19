@@ -17,7 +17,7 @@ public class CotacaoFrete {
         String jsonBody = String.format(
                 "{\n" +
                         "    \"from\": {\n" +
-                        "        \"postal_code\": \"08110600\"\n" +
+                        "        \"postal_code\": \"07115000\"\n" +
                         "    },\n" +
                         "    \"to\": {\n" +
                         "        \"postal_code\": \"%s\"\n" +
