@@ -81,7 +81,7 @@ public class CotacaoFrete {
 
                 double valorFrete = service.getDouble("price");
 
-                if (valorFrete > 50) {
+                if (valorFrete > 20) {
                     entregaDistante = true;
                 }
 
